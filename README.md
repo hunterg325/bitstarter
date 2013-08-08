@@ -1,3 +1,3 @@
 bitstarter
 ==========
-Sample bitcoin crowdfunding site
+A crowdfunding sample site, that accepts payment via Bitcoin.
